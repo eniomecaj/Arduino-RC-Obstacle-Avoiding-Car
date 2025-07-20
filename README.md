@@ -25,7 +25,6 @@ This is an Arduino-powered obstacle-avoiding robot car designed as a personal en
 
 ## Circuit Diagram
 
-📸 *[Insert Fritzing-style diagram or schematic image here]*
 
 ## Wiring Overview
 
